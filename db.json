@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "title": "GDragon Chronicals",
+      "author": "Sharath Banoth",
+      "id": 2
+    },
+    {
+      "title": "Week 04 Assg 06",
+      "author": "Sharath Banoth",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some content",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
